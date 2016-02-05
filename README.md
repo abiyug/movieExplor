@@ -1,2 +1,0 @@
-# movieExplor
-Demo Movie Explore
